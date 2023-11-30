@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Caro/src/java/dao/MoveDAO.java</file>
+            <file>file:/D:/Caro/src/java/dao/MatchDAO.java</file>
+            <file>file:/D:/Caro/src/java/dao/PlayerDAO.java</file>
+            <file>file:/D:/Caro/src/java/model/Player.java</file>
+            <file>file:/D:/Caro/web/GDTrangChu.jsp</file>
+            <file>file:/D:/Caro/web/GDBanCoChiTiet.jsp</file>
+            <file>file:/D:/Caro/src/java/controller/BXHController.java</file>
+            <file>file:/D:/Caro/src/java/controller/MatchController.java</file>
+            <file>file:/D:/Caro/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Caro/web/GDBXH.jsp</file>
+            <file>file:/D:/Caro/web/GDLichSuDau.jsp</file>
+            <file>file:/D:/Caro/src/java/controller/PlayerController.java</file>
+            <file>file:/D:/Caro/src/java/controller/BanCoChiTietController.java</file>
+            <file>file:/D:/Caro/src/java/model/Match.java</file>
+            <file>file:/D:/Caro/src/java/model/Move.java</file>
+            <file>file:/D:/Caro/src/java/model/BXH.java</file>
+            <file>file:/D:/Caro/src/java/dao/BXHDAO.java</file>
+            <file>file:/D:/Caro/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
